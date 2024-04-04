@@ -1,6 +1,6 @@
 # Calculus Review with Sympy
 
-A minimal speech set of calculus review problems to be tackled with Python and the Sympy library.
+A minimal speech set of calculus review activities designed to be tackled with Python and the Sympy library.
 
 ## Chapter 1: Functions, graphs and limits
 
